@@ -120,12 +120,9 @@ width: 90%;
 }
 
 .julio{
-    background-color: blue;
+    background-color: yellow;
     color: white;
     outline-style: solid;
     outline-color: white;
 }
 
-julio:link{
-    color:white;
-}
